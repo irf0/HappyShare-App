@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        " \"*.css\": ": "\"tailwindcss\""
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.codeActions": true,
+    "tailwindCSS.includeLanguages": {
+        "": "",
+        "\"plaintext\"": "\"html\"",
+        "\"javascript\"": "\"javascript\"",
+        "\"css\"": "\"css\""
+    }
+}
