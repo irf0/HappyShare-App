@@ -1,4 +1,5 @@
-# HappyShare-App #https://happyshare-1df0e.web.app/
+# HappyShare-App 
+<h3>Live @ https://happyshare-1df0e.web.app/</h3>
 <h2>TechStack</h2>
 
 ![react](https://user-images.githubusercontent.com/94031657/215967884-8262e1c9-4a3b-4dae-9ff0-76cf2a12ed72.png)
